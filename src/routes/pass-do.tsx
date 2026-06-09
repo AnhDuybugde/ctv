@@ -21,6 +21,7 @@ import {
   ArrowRight,
   Map,
   X,
+  Heart,
 } from "lucide-react";
 import wormMascot from "@/assets/worm-mascot.png";
 
